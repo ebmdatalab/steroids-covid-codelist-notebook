@@ -1,0 +1,805 @@
+obj_type,snomed_id,bnf_code,dmd_name,form_route
+amp,3765811000001105,0105020A0BBAAAA,Entocort CR 3mg capsules (Tillotts Pharma Ltd),capsulemodified-release.oral
+amp,3954411000001107,0105020A0BBABAB,Entocort 2mg/100ml enema (Tillotts Pharma Ltd),solutionenema.rectal
+amp,3807811000001103,0105020A0BCAAAC,Budenofalk 3mg gastro-resistant capsules (Dr. Falk Pharma UK Ltd),capsulegastro-resistant.oral
+amp,11550911000001107,0105020A0BCABAD,Budenofalk 2mg foam enema (Dr. Falk Pharma UK Ltd),foamenema.rectal
+amp,19738311000001103,0105020A0BCACAE,Budenofalk 9mg gastro-resistant granules sachets (Dr. Falk Pharma UK Ltd),granulesgastro-resistant.oral
+amp,29094211000001109,0105020A0BDAAAF,Cortiment 9mg modified-release tablets (Ferring Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,35774711000001104,0105020A0BEAAAG,Jorveza 1mg orodispersible tablets (Dr. Falk Pharma UK Ltd),tabletdispersible.oral
+amp,3050211000001109,0105020B0BBAAAA,Colifoam 10% aerosol (Mylan),foamenema.rectal
+amp,20549311000001109,0105020C0AAABAB,Hydrocortisone 25mg suppositories (Special Order),suppository.rectal
+amp,16017911000001100,0105020C0AAACAC,Hydrocortisone 100mg suppositories (Special Order),suppository.rectal
+amp,16085511000001100,0105020C0AAAGAG,Hydrocortisone 50mg suppositories (Special Order),suppository.rectal
+amp,19208211000001105,0105020D0AAACAC,Prednisolone 20mg/application foam enema (Essential Generics Ltd),foamenema.rectal
+amp,19565211000001106,0105020D0AAACAC,Prednisolone 20mg/application foam enema (Alliance Healthcare (Distribution) Ltd),foamenema.rectal
+amp,20011611000001109,0105020D0AAACAC,Prednisolone 20mg/application foam enema (A A H Pharmaceuticals Ltd),foamenema.rectal
+amp,37778111000001105,0105020D0AAACAC,Prednisolone 20mg/application foam enema (DE Pharmaceuticals),foamenema.rectal
+amp,3409611000001103,0105020D0BBAAAA,Predenema 20mg/100ml long tube (Forest Laboratories UK Ltd),solutionenema.rectal
+amp,3413611000001102,0105020D0BBABAB,Predenema 20mg/100ml standard tube (Forest Laboratories UK Ltd),solutionenema.rectal
+amp,363511000001104,0105020D0BCAAAC,Predfoam 20mg/application enema (Chemidex Pharma Ltd),foamenema.rectal
+amp,20589511000001107,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories (RPH Pharmaceuticals AB),suppository.rectal
+amp,21125111000001107,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories (Alliance Healthcare (Distribution) Ltd),suppository.rectal
+amp,21679011000001106,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories (A A H Pharmaceuticals Ltd),suppository.rectal
+amp,24028311000001104,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories (CST Pharma Ltd),suppository.rectal
+amp,17551611000001109,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories (Special Order),suppository.rectal
+amp,36375411000001105,0105020E0AAABAB,Prednisolone 20mg/100ml rectal solution (RPH Pharmaceuticals AB),solutionenema.rectal
+amp,36827211000001104,0105020E0AAABAB,Prednisolone 20mg/100ml rectal solution (Alliance Healthcare (Distribution) Ltd),solutionenema.rectal
+amp,900711000001108,0105020E0BBAAAA,Predsol 5mg suppositories (Focus Pharmaceuticals Ltd),suppository.rectal
+amp,3416911000001102,0105020E0BBABAB,Predsol 20mg/100ml retention enema (RPH Pharmaceuticals AB),solutionenema.rectal
+amp,11835611000001107,0105020G0BBAAAA,Clipper 5mg gastro-resistant modified-release tablets (Chiesi Ltd),tabletgastro-resistantmodified-release.oral
+amp,8481611000001102,0603010I0AAA2A2,Fludrocortisone 150micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8478811000001104,0603010I0AAA3A3,Fludrocortisone 125micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8480811000001106,0603010I0AAA4A4,Fludrocortisone 500micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8481411000001100,0603010I0AAA5A5,Fludrocortisone 25micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8482211000001106,0603010I0AAA6A6,Fludrocortisone 200micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8480211000001105,0603010I0AAA8A8,Fludrocortisone 250micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,11968611000001104,0603010I0AAA9A9,Fludrocortisone 10micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,32502211000001108,0603010I0AAACAC,Fludrocortisone 100microgram tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,32203511000001106,0603010I0AAACAC,Fludrocortisone 100microgram tablets (Mylan),tablet.oral
+amp,32419211000001107,0603010I0AAACAC,Fludrocortisone 100microgram tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,8748011000001100,0603010I0AAAJAJ,Fludrocortisone 50microgram capsules (Special Order),capsule.oral
+amp,8482311000001103,0603010I0AABCBC,Fludrocortisone 62.5micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,11971011000001107,0603010I0AABHBH,Fludrocortisone 20micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,8481311000001107,0603010I0AABYBY,Fludrocortisone 50micrograms/5ml oral suspension (Drug Tariff Special Order),suspension.oral
+amp,8477911000001108,0603010I0AABZBZ,Fludrocortisone 100micrograms/5ml oral suspension (Drug Tariff Special Order),suspension.oral
+amp,36892511000001109,0603010I0AACACA,Fludrocortisone 50microgram tablets (Special Order),tablet.oral
+amp,838111000001105,0603010I0BBAAAC,Florinef 100microgram tablets (Aspen Pharma Trading Ltd),tablet.oral
+amp,4050111000001101,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4050111000001101,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4050111000001101,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4050111000001101,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Pfizer Ltd),solutioninjection.intraarticular
+amp,4050111000001101,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Pfizer Ltd),solutioninjection.intrabursal
+amp,4050411000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,4050411000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,4050411000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,4050411000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,4050411000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,4048311000001104,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,4048311000001104,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,4048311000001104,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,4048311000001104,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,4048311000001104,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.subcutaneous
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,4047111000001102,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intralesional
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.subcutaneous
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.intramuscular
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.intravenous
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninfusion.intravenous
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.intraarticular
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.intrabursal
+amp,4047411000001107,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Pfizer Ltd),solutioninjection.intralesional
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.subcutaneous
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,4047711000001101,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intralesional
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.subcutaneous
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intramuscular
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intravenous
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninfusion.intravenous
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intraarticular
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intrabursal
+amp,19532111000001104,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intralesional
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.subcutaneous
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.intramuscular
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.intravenous
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninfusion.intravenous
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.intraarticular
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.intrabursal
+amp,32167711000001108,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules (Wockhardt UK Ltd),solutioninjection.intralesional
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.subcutaneous
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intramuscular
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intravenous
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninfusion.intravenous
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intraarticular
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intrabursal
+amp,22084911000001106,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (hameln pharma Ltd),solutioninjection.intralesional
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.subcutaneous
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,22127411000001109,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intralesional
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.subcutaneous
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,28039811000001104,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intralesional
+amp,19522311000001100,0603020ACBBAAAA,Advantan 0.1% ointment (Imported (Germany)),ointment.cutaneous
+amp,3804311000001103,0603020B0BBAAAB,Betnelan 500microgram tablets (Focus Pharmaceuticals Ltd),tablet.oral
+amp,30921211000001105,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (RPH Pharmaceuticals AB),solutioninjection.intravenous
+amp,30921211000001105,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (RPH Pharmaceuticals AB),solutioninfusion.intravenous
+amp,30921211000001105,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (RPH Pharmaceuticals AB),solutioninjection.intramuscular-deep
+amp,30921211000001105,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (RPH Pharmaceuticals AB),solutioninjection.subconjunctival
+amp,30984811000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,30984811000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,30984811000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular-deep
+amp,30984811000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.subconjunctival
+amp,30987311000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,30987311000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,30987311000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular-deep
+amp,30987311000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.subconjunctival
+amp,21142211000001109,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (RPH Pharmaceuticals AB),tablet.oral
+amp,21142211000001109,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (RPH Pharmaceuticals AB),solution.oral
+amp,21229111000001106,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (A A H Pharmaceuticals Ltd),tablet.oral
+amp,21229111000001106,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,21232511000001108,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,21232511000001108,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,22203611000001106,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,22203611000001106,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (Phoenix Healthcare Distribution Ltd),solution.oral
+amp,37108411000001101,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (DE Pharmaceuticals),tablet.oral
+amp,37108411000001101,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free (DE Pharmaceuticals),solution.oral
+amp,3694811000001103,0603020C0BBAAAB,Betnesol 500microgram soluble tablets (Focus Pharmaceuticals Ltd),tablet.oral
+amp,3694811000001103,0603020C0BBAAAB,Betnesol 500microgram soluble tablets (Focus Pharmaceuticals Ltd),solution.oral
+amp,3932011000001108,0603020C0BBABAA,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,3932011000001108,0603020C0BBABAA,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,3932011000001108,0603020C0BBABAA,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),solutioninjection.intramuscular-deep
+amp,3932011000001108,0603020C0BBABAA,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),solutioninjection.subconjunctival
+amp,20093711000001103,0603020F0AAAHAH,Cortisone 25mg tablets (Special Order),tablet.oral
+amp,3669611000001101,0603020F0AAAHAH,Cortisone 25mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,3670511000001103,0603020F0AAAHAH,Cortisone 25mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,11556011000001106,0603020F0AAAHAH,Cortisone 25mg tablets (Sanofi),tablet.oral
+amp,8748411000001109,0603020F0AAAKAK,Cortisone 5mg capsules (Special Order),capsule.oral
+amp,8432811000001103,0603020G0AAA5A5,Dexamethasone 5mg/5ml oral solution (Special Order),solution.oral
+amp,8433511000001108,0603020G0AAA5A5,Dexamethasone 5mg/5ml oral suspension (Special Order),suspension.oral
+amp,11691411000001108,0603020G0AAA6A6,Dexamethasone 2mg/5ml oral suspension (Special Order),suspension.oral
+amp,11691911000001100,0603020G0AAA6A6,Dexamethasone 2mg/5ml oral solution (Special Order),solution.oral
+amp,8433011000001100,0603020G0AAA7A7,Dexamethasone 500micrograms/5ml oral solution (Special Order),solution.oral
+amp,8434811000001109,0603020G0AAA7A7,Dexamethasone 500micrograms/5ml oral suspension (Special Order),suspension.oral
+amp,3286511000001105,0603020G0AAABAB,Dexamethasone 500microgram tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,3288811000001109,0603020G0AAABAB,Dexamethasone 500microgram tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,15245611000001104,0603020G0AAABAB,Dexamethasone 500microgram tablets (Essential Generics Ltd),tablet.oral
+amp,24672711000001108,0603020G0AAABAB,Dexamethasone 500microgram tablets (Teva UK Ltd),tablet.oral
+amp,30047811000001109,0603020G0AAABAB,Dexamethasone 500microgram tablets (DE Pharmaceuticals),tablet.oral
+amp,32064711000001105,0603020G0AAABAB,Dexamethasone 500microgram tablets (Aspire Pharma Ltd),tablet.oral
+amp,35477511000001105,0603020G0AAABAB,Dexamethasone 500microgram tablets (Consilient Health Ltd),tablet.oral
+amp,37220711000001102,0603020G0AAABAB,Dexamethasone 500microgram tablets (Martindale Pharmaceuticals Ltd),tablet.oral
+amp,38039211000001104,0603020G0AAABAB,Dexamethasone 500microgram tablets (Actavis UK Ltd),tablet.oral
+amp,3287811000001105,0603020G0AAABAB,Dexamethasone 500microgram tablets (Organon Laboratories Ltd),tablet.oral
+amp,29803711000001101,0603020G0AAABAB,Dexamethasone 500microgram tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,3290311000001101,0603020G0AAADAD,Dexamethasone 2mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,3291411000001104,0603020G0AAADAD,Dexamethasone 2mg tablets (Aspen Pharma Trading Ltd),tablet.oral
+amp,3292011000001100,0603020G0AAADAD,Dexamethasone 2mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,15104911000001100,0603020G0AAADAD,Dexamethasone 2mg tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,15628711000001100,0603020G0AAADAD,Dexamethasone 2mg tablets (Teva UK Ltd),tablet.oral
+amp,17890811000001109,0603020G0AAADAD,Dexamethasone 2mg tablets (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,17967911000001107,0603020G0AAADAD,Dexamethasone 2mg tablets (Almus Pharmaceuticals Ltd),tablet.oral
+amp,23968511000001105,0603020G0AAADAD,Dexamethasone 2mg tablets (DE Pharmaceuticals),tablet.oral
+amp,33634511000001106,0603020G0AAADAD,Dexamethasone 2mg tablets (Actavis UK Ltd),tablet.oral
+amp,37221211000001103,0603020G0AAADAD,Dexamethasone 2mg tablets (Martindale Pharmaceuticals Ltd),tablet.oral
+amp,21925111000001105,0603020G0AAADAD,Dexamethasone 2mg tablets (Waymade Healthcare Plc),tablet.oral
+amp,30809411000001107,0603020G0AAADAD,Dexamethasone 2mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,32404811000001106,0603020G0AAADAD,Dexamethasone 2mg tablets (Kent Pharmaceuticals Ltd),tablet.oral
+amp,34045511000001104,0603020G0AAADAD,Dexamethasone 2mg tablets (Aspire Pharma Ltd),tablet.oral
+amp,11602311000001108,0603020G0AABHBH,Dexamethasone 10mg/5ml oral solution (Special Order),solution.oral
+amp,11685611000001108,0603020G0AABHBH,Dexamethasone 10mg/5ml oral suspension (Special Order),suspension.oral
+amp,8422611000001104,0603020G0AABJBJ,Dexamethasone 1mg/5ml oral solution (Special Order),solution.oral
+amp,8423211000001107,0603020G0AABJBJ,Dexamethasone 1mg/5ml oral suspension (Special Order),suspension.oral
+amp,8432311000001107,0603020G0AABQBQ,Dexamethasone 2.5mg/5ml oral solution (Special Order),solution.oral
+amp,8432911000001108,0603020G0AABQBQ,Dexamethasone 2.5mg/5ml oral suspension (Special Order),suspension.oral
+amp,11685011000001101,0603020G0AABUBU,Dexamethasone 1.5mg/5ml oral suspension (Special Order),suspension.oral
+amp,11685311000001103,0603020G0AABUBU,Dexamethasone 1.5mg/5ml oral solution (Special Order),solution.oral
+amp,11689511000001107,0603020G0AABVBV,Dexamethasone 20mg/5ml oral suspension (Special Order),suspension.oral
+amp,11690111000001109,0603020G0AABVBV,Dexamethasone 20mg/5ml oral solution (Special Order),solution.oral
+amp,21926211000001105,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,22404911000001102,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (Advanz Pharma),solution.oral
+amp,23968311000001104,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (DE Pharmaceuticals),solution.oral
+amp,29803511000001106,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),solution.oral
+amp,23590911000001106,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (Waymade Healthcare Plc),solution.oral
+amp,24648711000001107,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free (Teva UK Ltd),solution.oral
+amp,24569711000001102,0603020G0AABYBY,Dexamethasone 10mg capsules (Special Order),capsule.oral
+amp,24343211000001103,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),solution.oral
+amp,24416211000001107,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,24421311000001102,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,28876811000001106,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free (Advanz Pharma),solution.oral
+amp,29803311000001100,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),solution.oral
+amp,28877111000001101,0603020G0AACDCD,Dexamethasone 20mg/5ml oral solution sugar free (Advanz Pharma),solution.oral
+amp,29224011000001100,0603020G0AACDCD,Dexamethasone 20mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,31138811000001105,0603020G0AACECE,Dexamethasone 400microgram capsules (Special Order),capsule.oral
+amp,31959911000001105,0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,32400911000001106,0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,32418411000001103,0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,37602611000001104,0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free (DE Pharmaceuticals),solution.oral
+amp,31961311000001100,0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,32401311000001100,0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,32418811000001101,0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,37603011000001102,0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free (DE Pharmaceuticals),solution.oral
+amp,31961811000001109,0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,32401111000001102,0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,32418611000001100,0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,37602811000001100,0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free (DE Pharmaceuticals),solution.oral
+amp,33497811000001107,0603020G0AACICI,Dexamethasone 4mg tablets (Consilient Health Ltd),tablet.oral
+amp,33557411000001107,0603020G0AACICI,Dexamethasone 4mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,34464111000001106,0603020G0AACICI,Dexamethasone 4mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,37236811000001109,0603020G0AACICI,Dexamethasone 4mg tablets (DE Pharmaceuticals),tablet.oral
+amp,37628711000001102,0603020G0AACICI,Dexamethasone 4mg tablets (Advanz Pharma),tablet.oral
+amp,35560411000001105,0603020G0AACICI,Dexamethasone 4mg tablets (Teva UK Ltd),tablet.oral
+amp,35561711000001107,0603020G0AACKCK,Dexamethasone 8mg tablets (Teva UK Ltd),tablet.oral
+amp,35632011000001100,0603020G0AACKCK,Dexamethasone 8mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,3851611000001100,0603020G0BEAABX,Dexsol 2mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),solution.oral
+amp,19792911000001107,0603020G0BFAABX,Martapan 2mg/5ml oral solution (Martindale Pharmaceuticals Ltd),solution.oral
+amp,34743111000001109,0603020G0BGAACF,Glensoludex 2mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,34743411000001104,0603020G0BGABCH,Glensoludex 4mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,34743611000001101,0603020G0BGACCG,Glensoludex 8mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),solution.oral
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.subcutaneous
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,4044111000001107,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),solutioninfusion.rectal
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninjection.subcutaneous
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninjection.intramuscular
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninjection.intravenous
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninfusion.intravenous
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninjection.intraarticular
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninjection.intrabursal
+amp,4044311000001109,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),solutioninfusion.rectal
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.subcutaneous
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,4045311000001108,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),solutioninfusion.rectal
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.subcutaneous
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,4042711000001103,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.rectal
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninjection.subcutaneous
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninjection.intramuscular
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninjection.intravenous
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninfusion.intravenous
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninjection.intraarticular
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninjection.intrabursal
+amp,4043411000001100,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),solutioninfusion.rectal
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.subcutaneous
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,4043611000001102,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninfusion.rectal
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.subcutaneous
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intramuscular
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intravenous
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninfusion.intravenous
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intraarticular
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninjection.intrabursal
+amp,28040011000001103,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd),solutioninfusion.rectal
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.subcutaneous
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intraarticular
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intrabursal
+amp,28041311000001105,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.rectal
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninjection.subcutaneous
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninjection.intramuscular
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninjection.intravenous
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninfusion.intravenous
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninjection.intraarticular
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninjection.intrabursal
+amp,27943411000001100,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials (Aspen Pharma Trading Ltd),solutioninfusion.rectal
+amp,3756411000001107,0603020I0BBAAAA,Calcort 6mg tablets (Sanofi),tablet.oral
+amp,15524111000001100,0603020J0AAA5A5,Hydrocortisone 2.5mg capsules (Special Order),capsule.oral
+amp,13614311000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,13661711000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,13806811000001104,0603020J0AAADAD,Hydrocortisone 10mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,15092711000001102,0603020J0AAADAD,Hydrocortisone 10mg tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,17930211000001109,0603020J0AAADAD,Hydrocortisone 10mg tablets (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,17973911000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (Almus Pharmaceuticals Ltd),tablet.oral
+amp,18392311000001107,0603020J0AAADAD,Hydrocortisone 10mg tablets (Teva UK Ltd),tablet.oral
+amp,24154111000001101,0603020J0AAADAD,Hydrocortisone 10mg tablets (DE Pharmaceuticals),tablet.oral
+amp,32711611000001102,0603020J0AAADAD,Hydrocortisone 10mg tablets (Alissa Healthcare Research Ltd),tablet.oral
+amp,33423211000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (Advanz Pharma),tablet.oral
+amp,34616211000001108,0603020J0AAADAD,Hydrocortisone 10mg tablets (Bristol Laboratories Ltd),tablet.oral
+amp,34957811000001100,0603020J0AAADAD,Hydrocortisone 10mg tablets (Genesis Pharmaceuticals Ltd),tablet.oral
+amp,36508411000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (Resolution Chemicals Ltd),tablet.oral
+amp,37494211000001109,0603020J0AAADAD,Hydrocortisone 10mg tablets (NorthStar Healthcare Unlimited Company),tablet.oral
+amp,38070711000001101,0603020J0AAADAD,Hydrocortisone 10mg tablets (Mibe Pharma UK Ltd),tablet.oral
+amp,22044411000001106,0603020J0AAADAD,Hydrocortisone 10mg tablets (Waymade Healthcare Plc),tablet.oral
+amp,35108911000001105,0603020J0AAADAD,Hydrocortisone 10mg tablets (Flynn Pharma Ltd),tablet.oral
+amp,37126311000001101,0603020J0AAADAD,Hydrocortisone 10mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,18394311000001100,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Teva UK Ltd),tablet.oral
+amp,13614511000001104,0603020J0AAAEAE,Hydrocortisone 20mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,13661911000001107,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,13807011000001108,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,15092911000001100,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,17930411000001108,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,17974111000001109,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Almus Pharmaceuticals Ltd),tablet.oral
+amp,24154311000001104,0603020J0AAAEAE,Hydrocortisone 20mg tablets (DE Pharmaceuticals),tablet.oral
+amp,29837011000001103,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Sovereign Medical Ltd),tablet.oral
+amp,34616411000001107,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Bristol Laboratories Ltd),tablet.oral
+amp,34702511000001102,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Advanz Pharma),tablet.oral
+amp,34958011000001107,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Genesis Pharmaceuticals Ltd),tablet.oral
+amp,36508611000001108,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Resolution Chemicals Ltd),tablet.oral
+amp,22044611000001109,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Waymade Healthcare Plc),tablet.oral
+amp,32407611000001101,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Kent Pharmaceuticals Ltd),tablet.oral
+amp,35109111000001100,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Flynn Pharma Ltd),tablet.oral
+amp,37089411000001100,0603020J0AAAEAE,Hydrocortisone 20mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,28418711000001102,0603020J0AAAJAJ,Hydrocortisone 5mg/5ml oral solution (Special Order),solution.oral
+amp,8532311000001100,0603020J0AAAKAK,Hydrocortisone 10mg/5ml oral suspension (Drug Tariff Special Order),suspension.oral
+amp,8531811000001100,0603020J0AAAXAX,Hydrocortisone 5mg/5ml oral suspension (Drug Tariff Special Order),suspension.oral
+amp,8533511000001104,0603020J0AABBBB,Hydrocortisone 12.5mg/5ml oral suspension (Special Order),suspension.oral
+amp,8532411000001107,0603020J0AABCBC,Hydrocortisone 2.5mg/5ml oral suspension (Special Order),suspension.oral
+amp,12529911000001103,0603020J0AABDBD,Hydrocortisone 1mg/5ml oral suspension (Special Order),suspension.oral
+amp,12553411000001108,0603020J0AABJBJ,Hydrocortisone 50mg/5ml oral suspension (Special Order),suspension.oral
+amp,8531111000001107,0603020J0AABLBL,Hydrocortisone 25mg/5ml oral suspension (Special Order),suspension.oral
+amp,12552211000001103,0603020J0AABNBN,Hydrocortisone 3mg/5ml oral suspension (Special Order),suspension.oral
+amp,12528911000001106,0603020J0AACACA,Hydrocortisone 100mg/5ml oral suspension (Special Order),suspension.oral
+amp,36586911000001100,0603020J0AADBDB,Hydrocortisone 10mg soluble tablets sugar free (Creo Pharma Ltd),solution.oral
+amp,37492011000001105,0603020J0AADBDB,Hydrocortisone 10mg soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,197211000001101,0603020J0BCAAAD,Hydrocortone 10mg tablets (Auden McKenzie (Pharma Division) Ltd),tablet.oral
+amp,706611000001109,0603020J0BCABAE,Hydrocortone 20mg tablets (Auden McKenzie (Pharma Division) Ltd),tablet.oral
+amp,21494611000001109,0603020J0BEAACV,Plenadren 5mg modified-release tablets (Shire Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,21494911000001103,0603020J0BEABCW,Plenadren 20mg modified-release tablets (Shire Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,35699311000001104,0603020J0BFAACX,Alkindi 0.5mg granules in capsules for opening (Diurnal Ltd),granules.oral
+amp,35700011000001101,0603020J0BFABCY,Alkindi 1mg granules in capsules for opening (Diurnal Ltd),granules.oral
+amp,35700311000001103,0603020J0BFACCZ,Alkindi 2mg granules in capsules for opening (Diurnal Ltd),granules.oral
+amp,35697611000001104,0603020J0BFADDA,Alkindi 5mg granules in capsules for opening (Diurnal Ltd),granules.oral
+amp,36917711000001106,0603020J0BGAAAD,Hydventia 10mg tablets (OcXia),tablet.oral
+amp,36917511000001101,0603020J0BGABAE,Hydventia 20mg tablets (OcXia),tablet.oral
+amp,30807511000001104,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,30807511000001104,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,30807511000001104,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,20129111000001104,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,20129111000001104,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,20129111000001104,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,22128311000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,22128311000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,22128311000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,20129311000001102,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,20129311000001102,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,20129311000001102,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,22128611000001106,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intramuscular
+amp,22128611000001106,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninjection.intravenous
+amp,22128611000001106,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials (A A H Pharmaceuticals Ltd),solutioninfusion.intravenous
+amp,4393011000001100,0603020K0BCAAAA,Solu-Medrone 40mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4393011000001100,0603020K0BCAAAA,Solu-Medrone 40mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4393011000001100,0603020K0BCAAAA,Solu-Medrone 40mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4392411000001100,0603020K0BCABAB,Solu-Medrone 125mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4392411000001100,0603020K0BCABAB,Solu-Medrone 125mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4392411000001100,0603020K0BCABAB,Solu-Medrone 125mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4179311000001102,0603020K0BCACAC,Solu-Medrone 500mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4179311000001102,0603020K0BCACAC,Solu-Medrone 500mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4179311000001102,0603020K0BCACAC,Solu-Medrone 500mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4180211000001105,0603020K0BCADAD,Solu-Medrone 1g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4180211000001105,0603020K0BCADAD,Solu-Medrone 1g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4180211000001105,0603020K0BCADAD,Solu-Medrone 1g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4392711000001106,0603020K0BCAEAE,Solu-Medrone 2g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4392711000001106,0603020K0BCAEAE,Solu-Medrone 2g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4392711000001106,0603020K0BCAEAE,Solu-Medrone 2g powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,30393911000001101,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intramuscular
+amp,30393911000001101,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intravenous
+amp,30393911000001101,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninfusion.intravenous
+amp,30393911000001101,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intralesional
+amp,30394611000001105,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intramuscular
+amp,30394611000001105,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intravenous
+amp,30394611000001105,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninfusion.intravenous
+amp,30394611000001105,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intralesional
+amp,3852011000001104,0603020L0BBAAAB,Efcortesol 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intramuscular
+amp,3852011000001104,0603020L0BBAAAB,Efcortesol 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intravenous
+amp,3852011000001104,0603020L0BBAAAB,Efcortesol 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninfusion.intravenous
+amp,3852011000001104,0603020L0BBAAAB,Efcortesol 100mg/1ml solution for injection ampoules (Advanz Pharma),solutioninjection.intralesional
+amp,4888811000001103,0603020L0BBABAC,Efcortesol 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intramuscular
+amp,4888811000001103,0603020L0BBABAC,Efcortesol 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intravenous
+amp,4888811000001103,0603020L0BBABAC,Efcortesol 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninfusion.intravenous
+amp,4888811000001103,0603020L0BBABAC,Efcortesol 500mg/5ml solution for injection ampoules (Advanz Pharma),solutioninjection.intralesional
+amp,4182611000001108,0603020M0BCAAAA,Solu-Cortef 100mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,4182611000001108,0603020M0BCAAAA,Solu-Cortef 100mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,4182611000001108,0603020M0BCAAAA,Solu-Cortef 100mg powder and solvent for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,13871211000001104,0603020M0BCABAE,Solu-Cortef 100mg powder for solution for injection vials (Pfizer Ltd),solutioninjection.intramuscular
+amp,13871211000001104,0603020M0BCABAE,Solu-Cortef 100mg powder for solution for injection vials (Pfizer Ltd),solutioninjection.intravenous
+amp,13871211000001104,0603020M0BCABAE,Solu-Cortef 100mg powder for solution for injection vials (Pfizer Ltd),solutioninfusion.intravenous
+amp,4051211000001101,0603020S0BBAAAA,Medrone 2mg tablets (Pfizer Ltd),tablet.oral
+amp,4051611000001104,0603020S0BBABAB,Medrone 4mg tablets (Pfizer Ltd),tablet.oral
+amp,4051911000001105,0603020S0BBACAC,Medrone 16mg tablets (Pfizer Ltd),tablet.oral
+amp,4052211000001108,0603020S0BBADAD,Medrone 100mg tablets (Pfizer Ltd),tablet.oral
+amp,649711000001109,0603020T0AAAAAA,Prednisolone 1mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,646211000001106,0603020T0AAAAAA,Prednisolone 1mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,238511000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Teva UK Ltd),tablet.oral
+amp,844111000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Wockhardt UK Ltd),tablet.oral
+amp,52911000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,9807711000001108,0603020T0AAAAAA,Prednisolone 1mg tablets (Almus Pharmaceuticals Ltd),tablet.oral
+amp,18285011000001109,0603020T0AAAAAA,Prednisolone 1mg tablets (Strides Pharma UK Ltd),tablet.oral
+amp,30114811000001104,0603020T0AAAAAA,Prednisolone 1mg tablets (DE Pharmaceuticals),tablet.oral
+amp,32807911000001101,0603020T0AAAAAA,Prednisolone 1mg tablets (Genesis Pharmaceuticals Ltd),tablet.oral
+amp,798611000001108,0603020T0AAAAAA,Prednisolone 1mg tablets (The Boots Company Plc),tablet.oral
+amp,707911000001100,0603020T0AAAAAA,Prednisolone 1mg tablets (Kent Pharmaceuticals Ltd),tablet.oral
+amp,10409611000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Arrow Generics Ltd),tablet.oral
+amp,14786411000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Boston Healthcare Ltd),tablet.oral
+amp,15175511000001102,0603020T0AAAAAA,Prednisolone 1mg tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,21851211000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Waymade Healthcare Plc),tablet.oral
+amp,30858911000001100,0603020T0AAAAAA,Prednisolone 1mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,32772911000001108,0603020T0AAABAB,Prednisolone 2.5mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,32776111000001109,0603020T0AAABAB,Prednisolone 2.5mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,876911000001107,0603020T0AAACAC,Prednisolone 5mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,85511000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Actavis UK Ltd),tablet.oral
+amp,940311000001100,0603020T0AAACAC,Prednisolone 5mg tablets (Wockhardt UK Ltd),tablet.oral
+amp,772111000001107,0603020T0AAACAC,Prednisolone 5mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,9807911000001105,0603020T0AAACAC,Prednisolone 5mg tablets (Almus Pharmaceuticals Ltd),tablet.oral
+amp,18285211000001104,0603020T0AAACAC,Prednisolone 5mg tablets (Strides Pharma UK Ltd),tablet.oral
+amp,18625211000001107,0603020T0AAACAC,Prednisolone 5mg tablets (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,30115011000001109,0603020T0AAACAC,Prednisolone 5mg tablets (DE Pharmaceuticals),tablet.oral
+amp,32808311000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Genesis Pharmaceuticals Ltd),tablet.oral
+amp,110811000001100,0603020T0AAACAC,Prednisolone 5mg tablets (Teva UK Ltd),tablet.oral
+amp,86711000001103,0603020T0AAACAC,Prednisolone 5mg tablets (The Boots Company Plc),tablet.oral
+amp,350611000001104,0603020T0AAACAC,Prednisolone 5mg tablets (Kent Pharmaceuticals Ltd),tablet.oral
+amp,10410111000001103,0603020T0AAACAC,Prednisolone 5mg tablets (Arrow Generics Ltd),tablet.oral
+amp,14786811000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Boston Healthcare Ltd),tablet.oral
+amp,21851411000001106,0603020T0AAACAC,Prednisolone 5mg tablets (Waymade Healthcare Plc),tablet.oral
+amp,30859111000001105,0603020T0AAACAC,Prednisolone 5mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,858811000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,380011000001100,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Accord Healthcare Ltd),tabletgastro-resistant.oral
+amp,779211000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),tabletgastro-resistant.oral
+amp,15175711000001107,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),tabletgastro-resistant.oral
+amp,17916411000001100,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),tabletgastro-resistant.oral
+amp,17999311000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,19743011000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,30114011000001105,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (DE Pharmaceuticals),tabletgastro-resistant.oral
+amp,36568211000001107,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Bristol Laboratories Ltd),tabletgastro-resistant.oral
+amp,685311000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,4208511000001105,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Approved Prescription Services Ltd),tabletgastro-resistant.oral
+amp,18307011000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Teva UK Ltd),tabletgastro-resistant.oral
+amp,22452711000001102,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Waymade Healthcare Plc),tabletgastro-resistant.oral
+amp,37130211000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),tabletgastro-resistant.oral
+amp,19743211000001104,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,662011000001105,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,512811000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Accord Healthcare Ltd),tabletgastro-resistant.oral
+amp,255211000001101,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),tabletgastro-resistant.oral
+amp,15176111000001100,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),tabletgastro-resistant.oral
+amp,17916811000001103,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),tabletgastro-resistant.oral
+amp,17999611000001109,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,30114311000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (DE Pharmaceuticals),tabletgastro-resistant.oral
+amp,34444511000001106,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Bristol Laboratories Ltd),tabletgastro-resistant.oral
+amp,447211000001105,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,4208911000001103,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Approved Prescription Services Ltd),tabletgastro-resistant.oral
+amp,18307211000001104,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Teva UK Ltd),tabletgastro-resistant.oral
+amp,22453011000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Waymade Healthcare Plc),tabletgastro-resistant.oral
+amp,37130611000001106,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),tabletgastro-resistant.oral
+amp,4852811000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Zentiva),tablet.oral
+amp,313911000001107,0603020T0AAARAR,Prednisolone 25mg tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,716111000001103,0603020T0AAARAR,Prednisolone 25mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,17917211000001102,0603020T0AAARAR,Prednisolone 25mg tablets (Phoenix Healthcare Distribution Ltd),tablet.oral
+amp,30991311000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,37778711000001106,0603020T0AAARAR,Prednisolone 25mg tablets (DE Pharmaceuticals),tablet.oral
+amp,37131011000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Mawdsley-Brooks & Company Ltd),tablet.oral
+amp,32584711000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,33425811000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,33428411000001103,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),tabletgastro-resistant.oral
+amp,37778311000001107,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (DE Pharmaceuticals),tabletgastro-resistant.oral
+amp,37130011000001104,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),tabletgastro-resistant.oral
+amp,32773211000001105,0603020T0AAAXAX,Prednisolone 20mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,32776511000001100,0603020T0AAAXAX,Prednisolone 20mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,13055311000001107,0603020T0AAAYAY,Prednisolone 15mg/5ml oral suspension (Special Order),suspension.oral
+amp,13055911000001108,0603020T0AAAYAY,Prednisolone 15mg/5ml oral solution (Special Order),solution.oral
+amp,13120111000001109,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral suspension (Special Order),suspension.oral
+amp,13120411000001104,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral solution (Special Order),solution.oral
+amp,13054411000001101,0603020T0AABCBC,Prednisolone 10mg/5ml oral suspension (Special Order),suspension.oral
+amp,13054711000001107,0603020T0AABCBC,Prednisolone 10mg/5ml oral solution (Special Order),solution.oral
+amp,13056211000001105,0603020T0AABFBF,Prednisolone 1mg/5ml oral suspension (Special Order),suspension.oral
+amp,13056511000001108,0603020T0AABFBF,Prednisolone 1mg/5ml oral solution (Special Order),solution.oral
+amp,13058011000001101,0603020T0AABGBG,Prednisolone 20mg/5ml oral suspension (Special Order),suspension.oral
+amp,13058311000001103,0603020T0AABGBG,Prednisolone 20mg/5ml oral solution (Special Order),solution.oral
+amp,245011000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,245011000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (A A H Pharmaceuticals Ltd),suspension.oral
+amp,157711000001100,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Alliance Healthcare (Distribution) Ltd),tablet.oral
+amp,157711000001100,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Alliance Healthcare (Distribution) Ltd),suspension.oral
+amp,392511000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Advanz Pharma),tablet.oral
+amp,392511000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Advanz Pharma),suspension.oral
+amp,28937511000001104,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Focus Pharmaceuticals Ltd),tablet.oral
+amp,28937511000001104,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Focus Pharmaceuticals Ltd),suspension.oral
+amp,30114611000001103,0603020T0AABHBH,Prednisolone 5mg soluble tablets (DE Pharmaceuticals),tablet.oral
+amp,30114611000001103,0603020T0AABHBH,Prednisolone 5mg soluble tablets (DE Pharmaceuticals),suspension.oral
+amp,34035411000001102,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Actavis UK Ltd),tablet.oral
+amp,34035411000001102,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Actavis UK Ltd),suspension.oral
+amp,34172711000001106,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Phoenix Labs Ltd),tablet.oral
+amp,34172711000001106,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Phoenix Labs Ltd),suspension.oral
+amp,15172311000001102,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Sigma Pharmaceuticals Plc),tablet.oral
+amp,15172311000001102,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Sigma Pharmaceuticals Plc),suspension.oral
+amp,13056811000001106,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral suspension (Special Order),suspension.oral
+amp,13057411000001106,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral solution (Special Order),solution.oral
+amp,32771211000001106,0603020T0AABKBK,Prednisolone 10mg tablets (Accord Healthcare Ltd),tablet.oral
+amp,32776311000001106,0603020T0AABKBK,Prednisolone 10mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,29361211000001105,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (Logixx Pharma Solutions Ltd),solution.oral
+amp,29559211000001100,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (A A H Pharmaceuticals Ltd),solution.oral
+amp,32688311000001106,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,29879111000001105,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (Advanz Pharma),solution.oral
+amp,30129111000001103,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),solution.oral
+amp,37778511000001101,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (DE Pharmaceuticals),solution.oral
+amp,37941611000001100,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),solution.oral
+amp,32774411000001107,0603020T0AABNBN,Prednisolone 30mg tablets (Actavis UK Ltd),tablet.oral
+amp,32776711000001105,0603020T0AABNBN,Prednisolone 30mg tablets (A A H Pharmaceuticals Ltd),tablet.oral
+amp,459611000001100,0603020T0BCAAAF,Deltacortril 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,331111000001100,0603020T0BCABAG,Deltacortril 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),tabletgastro-resistant.oral
+amp,22519711000001105,0603020T0BKAAAF,Dilacort 2.5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd),tabletgastro-resistant.oral
+amp,22520311000001107,0603020T0BKABAG,Dilacort 5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd),tabletgastro-resistant.oral
+amp,28798211000001102,0603020T0BLAAAB,Pevanti 2.5mg tablets (Advanz Pharma),tablet.oral
+amp,28799011000001102,0603020T0BLABAC,Pevanti 5mg tablets (Advanz Pharma),tablet.oral
+amp,28799311000001104,0603020T0BLACBK,Pevanti 10mg tablets (Advanz Pharma),tablet.oral
+amp,28799611000001109,0603020T0BLADAX,Pevanti 20mg tablets (Advanz Pharma),tablet.oral
+amp,28799811000001108,0603020T0BLAEAR,Pevanti 25mg tablets (Advanz Pharma),tablet.oral
+amp,32652311000001103,0603020T0BNAAAF,Dilacort 2.5mg gastro-resistant tablets (Crescent Pharma Ltd),tabletgastro-resistant.oral
+amp,32652511000001109,0603020T0BNABAG,Dilacort 5mg gastro-resistant tablets (Crescent Pharma Ltd),tabletgastro-resistant.oral
+amp,33577911000001102,0603020T0BPABAG,Dilacort 5mg gastro-resistant tablets (Teva UK Ltd),tabletgastro-resistant.oral
+amp,17872911000001105,0603020X0BDAAAE,Lodotra 1mg modified-release tablets (Napp Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,17873311000001104,0603020X0BDABAF,Lodotra 2mg modified-release tablets (Napp Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,17873911000001103,0603020X0BDACAG,Lodotra 5mg modified-release tablets (Napp Pharmaceuticals Ltd),tabletmodified-release.oral
+amp,793711000001105,0603020Z0BBAAAA,Kenalog Intramuscular 40mg/1ml suspension for injection pre-filled syringes (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intramuscular
+amp,865511000001102,0603020Z0BBABAB,Kenalog Intramuscular 80mg/2ml suspension for injection pre-filled syringes (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intramuscular-deep
+amp,3017511000001100,1001022G0BBABAE,Hydrocortistab 25mg/1ml suspension for injection ampoules (Advanz Pharma),suspensioninjection.intraarticular
+amp,3017511000001100,1001022G0BBABAE,Hydrocortistab 25mg/1ml suspension for injection ampoules (Advanz Pharma),suspensioninjection.periarticular
+amp,623611000001104,1001022K0BBAAAA,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intramuscular
+amp,623611000001104,1001022K0BBAAAA,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intraarticular
+amp,623611000001104,1001022K0BBAAAA,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),suspensioninjection.periarticular
+amp,623611000001104,1001022K0BBAAAA,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intralesional
+amp,623611000001104,1001022K0BBAAAA,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intrabursal
+amp,777311000001106,1001022K0BBABAB,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intramuscular
+amp,777311000001106,1001022K0BBABAB,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intraarticular
+amp,777311000001106,1001022K0BBABAB,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),suspensioninjection.periarticular
+amp,777311000001106,1001022K0BBABAB,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intralesional
+amp,777311000001106,1001022K0BBABAB,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intrabursal
+amp,3231811000001107,1001022K0BBAEAE,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intramuscular
+amp,3231811000001107,1001022K0BBAEAE,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intraarticular
+amp,3231811000001107,1001022K0BBAEAE,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),suspensioninjection.periarticular
+amp,3231811000001107,1001022K0BBAEAE,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intralesional
+amp,3231811000001107,1001022K0BBAEAE,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),suspensioninjection.intrabursal
+amp,769111000001105,1001022K0BBAFAF,Depo-Medrone with Lidocaine suspension for injection 2ml vials (Pfizer Ltd),suspensioninjection.intraarticular
+amp,769111000001105,1001022K0BBAFAF,Depo-Medrone with Lidocaine suspension for injection 2ml vials (Pfizer Ltd),suspensioninjection.periarticular
+amp,769111000001105,1001022K0BBAFAF,Depo-Medrone with Lidocaine suspension for injection 2ml vials (Pfizer Ltd),suspensioninjection.intrabursal
+amp,470611000001109,1001022K0BBAGAG,Depo-Medrone with Lidocaine suspension for injection 1ml vials (Pfizer Ltd),suspensioninjection.intraarticular
+amp,470611000001109,1001022K0BBAGAG,Depo-Medrone with Lidocaine suspension for injection 1ml vials (Pfizer Ltd),suspensioninjection.periarticular
+amp,470611000001109,1001022K0BBAGAG,Depo-Medrone with Lidocaine suspension for injection 1ml vials (Pfizer Ltd),suspensioninjection.intrabursal
+amp,355311000001102,1001022N0BBABAB,Deltastab 25mg/1ml suspension for injection ampoules (Advanz Pharma),suspensioninjection.intramuscular
+amp,355311000001102,1001022N0BBABAB,Deltastab 25mg/1ml suspension for injection ampoules (Advanz Pharma),suspensioninjection.intraarticular
+amp,355311000001102,1001022N0BBABAB,Deltastab 25mg/1ml suspension for injection ampoules (Advanz Pharma),suspensioninjection.periarticular
+amp,911211000001105,1001022U0BBAAAA,Adcortyl Intra-articular / Intradermal 10mg/1ml suspension for injection ampoules (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intraarticular
+amp,911211000001105,1001022U0BBAAAA,Adcortyl Intra-articular / Intradermal 10mg/1ml suspension for injection ampoules (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intradermal
+amp,89311000001109,1001022U0BBABAC,Adcortyl Intra-articular / Intradermal 50mg/5ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intraarticular
+amp,89311000001109,1001022U0BBABAC,Adcortyl Intra-articular / Intradermal 50mg/5ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intradermal
+amp,306011000001103,1001022U0BCAAAB,Kenalog Intra-articular / Intramuscular 40mg/1ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intramuscular
+amp,306011000001103,1001022U0BCAAAB,Kenalog Intra-articular / Intramuscular 40mg/1ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),suspensioninjection.intraarticular
+amp,24564611000001107,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules (Intrapharm Laboratories Ltd),suspensioninjection.intraarticular
+amp,24564611000001107,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules (Intrapharm Laboratories Ltd),suspensioninjection.periarticular
+amp,28490511000001105,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules (A A H Pharmaceuticals Ltd),suspensioninjection.intraarticular
+amp,28490511000001105,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules (A A H Pharmaceuticals Ltd),suspensioninjection.periarticular
+amp,4563011000001104,1001022Y0BBACAC,Lederspan 100mg/5ml suspension for injection vials (Wyeth Pharmaceuticals),suspensioninjection.intraarticular
+vmp,35912611000001102,0105020A0AAAAAA,Budesonide 3mg gastro-resistant modified-release capsules,capsulemodified-release.oral
+vmp,317695007,0105020A0AAABAB,Budesonide 2mg/100ml enema,solutionenema.rectal
+vmp,317446001,0105020A0AAACAC,Budesonide 3mg gastro-resistant capsules,capsulegastro-resistant.oral
+vmp,11550711000001105,0105020A0AAADAD,Budesonide 2mg foam enema,foamenema.rectal
+vmp,19743911000001108,0105020A0AAAEAE,Budesonide 9mg gastro-resistant granules sachets,granulesgastro-resistant.oral
+vmp,29094911000001100,0105020A0AAAFAF,Budesonide 9mg modified-release tablets,tabletmodified-release.oral
+vmp,35824211000001108,0105020A0AAAGAG,Budesonide 1mg orodispersible tablets sugar free,tabletdispersible.oral
+vmp,317681009,0105020B0AAAAAA,Hydrocortisone 10% foam aerosol enema,foamenema.rectal
+vmp,317678004,0105020C0AAABAB,Hydrocortisone 25mg suppositories,suppository.rectal
+vmp,16036211000001100,0105020C0AAACAC,Hydrocortisone 100mg suppositories,suppository.rectal
+vmp,16090211000001106,0105020C0AAAGAG,Hydrocortisone 50mg suppositories,suppository.rectal
+vmp,317692005,0105020D0AAAAAA,Prednisolone 20mg/100ml enema long tube,solutionenema.rectal
+vmp,349392002,0105020D0AAACAC,Prednisolone 20mg/application foam enema,foamenema.rectal
+vmp,317690002,0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories,suppository.rectal
+vmp,317693000,0105020E0AAABAB,Prednisolone 20mg/100ml rectal solution,solutionenema.rectal
+vmp,11880411000001105,0105020G0AAAAAA,Beclometasone 5mg gastro-resistant modified-release tablets,tabletgastro-resistantmodified-release.oral
+vmp,8515511000001106,0603010I0AAA2A2,Fludrocortisone 150micrograms/5ml oral suspension,suspension.oral
+vmp,8515411000001107,0603010I0AAA3A3,Fludrocortisone 125micrograms/5ml oral suspension,suspension.oral
+vmp,8516011000001107,0603010I0AAA4A4,Fludrocortisone 500micrograms/5ml oral suspension,suspension.oral
+vmp,8515811000001109,0603010I0AAA5A5,Fludrocortisone 25micrograms/5ml oral suspension,suspension.oral
+vmp,8515611000001105,0603010I0AAA6A6,Fludrocortisone 200micrograms/5ml oral suspension,suspension.oral
+vmp,8515711000001101,0603010I0AAA8A8,Fludrocortisone 250micrograms/5ml oral suspension,suspension.oral
+vmp,12030011000001106,0603010I0AAA9A9,Fludrocortisone 10micrograms/5ml oral suspension,suspension.oral
+vmp,325336004,0603010I0AAACAC,Fludrocortisone 100microgram tablets,tablet.oral
+vmp,8794211000001105,0603010I0AAAJAJ,Fludrocortisone 50microgram capsules,capsule.oral
+vmp,8516211000001102,0603010I0AABCBC,Fludrocortisone 62.5micrograms/5ml oral suspension,suspension.oral
+vmp,12030411000001102,0603010I0AABHBH,Fludrocortisone 20micrograms/5ml oral suspension,suspension.oral
+vmp,8516111000001108,0603010I0AABYBY,Fludrocortisone 50micrograms/5ml oral suspension,suspension.oral
+vmp,8515311000001100,0603010I0AABZBZ,Fludrocortisone 100micrograms/5ml oral suspension,suspension.oral
+vmp,36903811000001106,0603010I0AACACA,Fludrocortisone 50microgram tablets,tablet.oral
+vmp,4052511000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials,solutioninjection.intramuscular
+vmp,4052511000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials,solutioninjection.intravenous
+vmp,4052511000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials,solutioninfusion.intravenous
+vmp,4052511000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials,solutioninjection.intraarticular
+vmp,4052511000001106,0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials,solutioninjection.intrabursal
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.subcutaneous
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.intramuscular
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.intravenous
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.intraarticular
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.intrabursal
+vmp,4052611000001105,0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml solution for injection ampoules,solutioninjection.intralesional
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.subcutaneous
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.intramuscular
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.intravenous
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.intraarticular
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.intrabursal
+vmp,22153811000001101,0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml solution for injection ampoules,solutioninjection.intralesional
+vmp,19525311000001106,0603020ACAAAAAA,Methylprednisolone aceponate 0.1% ointment,ointment.cutaneous
+vmp,325345003,0603020B0AAABAB,Betamethasone 500microgram tablets,tablet.oral
+vmp,35910611000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intravenous
+vmp,35910611000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,35910611000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intramuscular-deep
+vmp,35910611000001103,0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules,solutioninjection.subconjunctival
+vmp,325344004,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free,tablet.oral
+vmp,325344004,0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free,solution.oral
+vmp,325349009,0603020F0AAAHAH,Cortisone 25mg tablets,tablet.oral
+vmp,8792411000001102,0603020F0AAAKAK,Cortisone 5mg capsules,capsule.oral
+vmp,8452411000001101,0603020G0AAA5A5,Dexamethasone 5mg/5ml oral solution,solution.oral
+vmp,8452511000001102,0603020G0AAA5A5,Dexamethasone 5mg/5ml oral suspension,suspension.oral
+vmp,11716111000001102,0603020G0AAA6A6,Dexamethasone 2mg/5ml oral suspension,suspension.oral
+vmp,11716011000001103,0603020G0AAA6A6,Dexamethasone 2mg/5ml oral solution,solution.oral
+vmp,325365005,0603020G0AAA7A7,Dexamethasone 500micrograms/5ml oral solution,solution.oral
+vmp,8452311000001108,0603020G0AAA7A7,Dexamethasone 500micrograms/5ml oral suspension,suspension.oral
+vmp,325355004,0603020G0AAABAB,Dexamethasone 500microgram tablets,tablet.oral
+vmp,325356003,0603020G0AAADAD,Dexamethasone 2mg tablets,tablet.oral
+vmp,11714911000001107,0603020G0AABHBH,Dexamethasone 10mg/5ml oral suspension,suspension.oral
+vmp,11612111000001109,0603020G0AABHBH,Dexamethasone 10mg/5ml oral solution,solution.oral
+vmp,8429111000001103,0603020G0AABJBJ,Dexamethasone 1mg/5ml oral solution,solution.oral
+vmp,8429011000001104,0603020G0AABJBJ,Dexamethasone 1mg/5ml oral suspension,suspension.oral
+vmp,8452111000001106,0603020G0AABQBQ,Dexamethasone 2.5mg/5ml oral solution,solution.oral
+vmp,8452211000001100,0603020G0AABQBQ,Dexamethasone 2.5mg/5ml oral suspension,suspension.oral
+vmp,11714811000001102,0603020G0AABUBU,Dexamethasone 1.5mg/5ml oral suspension,suspension.oral
+vmp,11714711000001105,0603020G0AABUBU,Dexamethasone 1.5mg/5ml oral solution,solution.oral
+vmp,11715711000001109,0603020G0AABVBV,Dexamethasone 20mg/5ml oral suspension,suspension.oral
+vmp,11715611000001100,0603020G0AABVBV,Dexamethasone 20mg/5ml oral solution,solution.oral
+vmp,37084211000001103,0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free,solution.oral
+vmp,24580511000001101,0603020G0AABYBY,Dexamethasone 10mg capsules,capsule.oral
+vmp,24350911000001102,0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free,solution.oral
+vmp,28881311000001104,0603020G0AACDCD,Dexamethasone 20mg/5ml oral solution sugar free,solution.oral
+vmp,31141511000001103,0603020G0AACECE,Dexamethasone 400microgram capsules,capsule.oral
+vmp,32071811000001109,0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free,solution.oral
+vmp,32072011000001106,0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free,solution.oral
+vmp,32071911000001104,0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free,solution.oral
+vmp,376688006,0603020G0AACICI,Dexamethasone 4mg tablets,tablet.oral
+vmp,34796811000001100,0603020G0AACJCJ,Dexamethasone 40mg tablets,tablet.oral
+vmp,35574111000001104,0603020G0AACKCK,Dexamethasone 8mg tablets,tablet.oral
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninjection.subcutaneous
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intramuscular
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intravenous
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intraarticular
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninjection.intrabursal
+vmp,4052711000001101,0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules,solutioninfusion.rectal
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninjection.subcutaneous
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninjection.intramuscular
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninjection.intravenous
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninfusion.intravenous
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninjection.intraarticular
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninjection.intrabursal
+vmp,4052811000001109,0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials,solutioninfusion.rectal
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninjection.subcutaneous
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninjection.intramuscular
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninjection.intravenous
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninfusion.intravenous
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninjection.intraarticular
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninjection.intrabursal
+vmp,27957911000001102,0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,solutioninfusion.rectal
+vmp,325472005,0603020I0AAAAAA,Deflazacort 6mg tablets,tablet.oral
+vmp,15533611000001108,0603020J0AAA5A5,Hydrocortisone 2.5mg capsules,capsule.oral
+vmp,325373001,0603020J0AAADAD,Hydrocortisone 10mg tablets,tablet.oral
+vmp,325374007,0603020J0AAAEAE,Hydrocortisone 20mg tablets,tablet.oral
+vmp,28422811000001103,0603020J0AAAJAJ,Hydrocortisone 5mg/5ml oral solution,solution.oral
+vmp,8581111000001102,0603020J0AAAKAK,Hydrocortisone 10mg/5ml oral suspension,suspension.oral
+vmp,8581611000001105,0603020J0AAAXAX,Hydrocortisone 5mg/5ml oral suspension,suspension.oral
+vmp,8581211000001108,0603020J0AABBBB,Hydrocortisone 12.5mg/5ml oral suspension,suspension.oral
+vmp,8581311000001100,0603020J0AABCBC,Hydrocortisone 2.5mg/5ml oral suspension,suspension.oral
+vmp,12540711000001109,0603020J0AABDBD,Hydrocortisone 1mg/5ml oral suspension,suspension.oral
+vmp,12555211000001108,0603020J0AABJBJ,Hydrocortisone 50mg/5ml oral suspension,suspension.oral
+vmp,8581511000001106,0603020J0AABLBL,Hydrocortisone 25mg/5ml oral suspension,suspension.oral
+vmp,12554911000001103,0603020J0AABNBN,Hydrocortisone 3mg/5ml oral suspension,suspension.oral
+vmp,12540411000001103,0603020J0AACACA,Hydrocortisone 100mg/5ml oral suspension,suspension.oral
+vmp,21496411000001103,0603020J0AACVCV,Hydrocortisone 5mg modified-release tablets,tabletmodified-release.oral
+vmp,21496311000001105,0603020J0AACWCW,Hydrocortisone 20mg modified-release tablets,tabletmodified-release.oral
+vmp,35776011000001106,0603020J0AACXCX,Hydrocortisone 500microgram granules in capsules for opening,granules.oral
+vmp,35775611000001109,0603020J0AACYCY,Hydrocortisone 1mg granules in capsules for opening,granules.oral
+vmp,35775711000001100,0603020J0AACZCZ,Hydrocortisone 2mg granules in capsules for opening,granules.oral
+vmp,35776111000001107,0603020J0AADADA,Hydrocortisone 5mg granules in capsules for opening,granules.oral
+vmp,36595311000001105,0603020J0AADBDB,Hydrocortisone 10mg soluble tablets sugar free,solution.oral
+vmp,4396911000001107,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials,solutioninjection.intramuscular
+vmp,4396911000001107,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials,solutioninjection.intravenous
+vmp,4396911000001107,0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials,solutioninfusion.intravenous
+vmp,4396711000001105,0603020K0AAABAB,Methylprednisolone sodium succinate 125mg powder and solvent for solution for injection vials,solutioninjection.intramuscular
+vmp,4396711000001105,0603020K0AAABAB,Methylprednisolone sodium succinate 125mg powder and solvent for solution for injection vials,solutioninjection.intravenous
+vmp,4396711000001105,0603020K0AAABAB,Methylprednisolone sodium succinate 125mg powder and solvent for solution for injection vials,solutioninfusion.intravenous
+vmp,4195411000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials,solutioninjection.intramuscular
+vmp,4195411000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials,solutioninjection.intravenous
+vmp,4195411000001101,0603020K0AAACAC,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials,solutioninfusion.intravenous
+vmp,4195311000001108,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials,solutioninjection.intramuscular
+vmp,4195311000001108,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials,solutioninjection.intravenous
+vmp,4195311000001108,0603020K0AAADAD,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials,solutioninfusion.intravenous
+vmp,36056911000001108,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,solutioninjection.intramuscular
+vmp,36056911000001108,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,solutioninjection.intravenous
+vmp,36056911000001108,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,36056911000001108,0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,solutioninjection.intralesional
+vmp,36057011000001107,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,solutioninjection.intramuscular
+vmp,36057011000001107,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,solutioninjection.intravenous
+vmp,36057011000001107,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,solutioninfusion.intravenous
+vmp,36057011000001107,0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,solutioninjection.intralesional
+vmp,4195211000001100,0603020M0AAAAAA,Hydrocortisone sodium succinate 100mg powder and solvent for solution for injection vials,solutioninjection.intramuscular
+vmp,4195211000001100,0603020M0AAAAAA,Hydrocortisone sodium succinate 100mg powder and solvent for solution for injection vials,solutioninjection.intravenous
+vmp,4195211000001100,0603020M0AAAAAA,Hydrocortisone sodium succinate 100mg powder and solvent for solution for injection vials,solutioninfusion.intravenous
+vmp,13893711000001102,0603020M0AAAEAE,Hydrocortisone sodium succinate 100mg powder for solution for injection vials,solutioninjection.intramuscular
+vmp,13893711000001102,0603020M0AAAEAE,Hydrocortisone sodium succinate 100mg powder for solution for injection vials,solutioninjection.intravenous
+vmp,13893711000001102,0603020M0AAAEAE,Hydrocortisone sodium succinate 100mg powder for solution for injection vials,solutioninfusion.intravenous
+vmp,325411009,0603020S0AAAAAA,Methylprednisolone 2mg tablets,tablet.oral
+vmp,325412002,0603020S0AAABAB,Methylprednisolone 4mg tablets,tablet.oral
+vmp,325413007,0603020S0AAACAC,Methylprednisolone 16mg tablets,tablet.oral
+vmp,325410005,0603020S0AAADAD,Methylprednisolone 100mg tablets,tablet.oral
+vmp,325426006,0603020T0AAAAAA,Prednisolone 1mg tablets,tablet.oral
+vmp,28808611000001100,0603020T0AAABAB,Prednisolone 2.5mg tablets,tablet.oral
+vmp,325427002,0603020T0AAACAC,Prednisolone 5mg tablets,tablet.oral
+vmp,325442004,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets,tabletgastro-resistant.oral
+vmp,325443009,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets,tabletgastro-resistant.oral
+vmp,325450008,0603020T0AAARAR,Prednisolone 25mg tablets,tablet.oral
+vmp,32611811000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets,tabletgastro-resistant.oral
+vmp,28808711000001109,0603020T0AAAXAX,Prednisolone 20mg tablets,tablet.oral
+vmp,432225008,0603020T0AAAYAY,Prednisolone 15mg/5ml oral suspension,suspension.oral
+vmp,416533002,0603020T0AAAYAY,Prednisolone 15mg/5ml oral solution,solution.oral
+vmp,432224007,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral suspension,suspension.oral
+vmp,13133111000001100,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral solution,solution.oral
+vmp,13078611000001106,0603020T0AABCBC,Prednisolone 10mg/5ml oral suspension,suspension.oral
+vmp,429995001,0603020T0AABCBC,Prednisolone 10mg/5ml oral solution,solution.oral
+vmp,13079011000001109,0603020T0AABFBF,Prednisolone 1mg/5ml oral suspension,suspension.oral
+vmp,13078911000001100,0603020T0AABFBF,Prednisolone 1mg/5ml oral solution,solution.oral
+vmp,13079411000001100,0603020T0AABGBG,Prednisolone 20mg/5ml oral suspension,suspension.oral
+vmp,13079311000001107,0603020T0AABGBG,Prednisolone 20mg/5ml oral solution,solution.oral
+vmp,325444003,0603020T0AABHBH,Prednisolone 5mg soluble tablets,tablet.oral
+vmp,325444003,0603020T0AABHBH,Prednisolone 5mg soluble tablets,suspension.oral
+vmp,13079211000001104,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral suspension,suspension.oral
+vmp,13079111000001105,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral solution,solution.oral
+vmp,28808411000001103,0603020T0AABKBK,Prednisolone 10mg tablets,tablet.oral
+vmp,29424511000001109,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose,solution.oral
+vmp,29904211000001102,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free,solution.oral
+vmp,32781411000001102,0603020T0AABNBN,Prednisolone 30mg tablets,tablet.oral
+vmp,17872811000001100,0603020X0AAAEAE,Prednisone 1mg modified-release tablets,tabletmodified-release.oral
+vmp,17873211000001107,0603020X0AAAFAF,Prednisone 2mg modified-release tablets,tabletmodified-release.oral
+vmp,17873811000001108,0603020X0AAAGAG,Prednisone 5mg modified-release tablets,tabletmodified-release.oral
+vmp,35921611000001103,0603020Z0AAAAAA,Triamcinolone acetonide 40mg/1ml suspension for injection pre-filled syringes,suspensioninjection.intramuscular
+vmp,35921911000001109,0603020Z0AAABAB,Triamcinolone acetonide 80mg/2ml suspension for injection pre-filled syringes,suspensioninjection.intramuscular-deep
+vmp,36056711000001106,1001022G0AAAEAE,Hydrocortisone acetate 25mg/1ml suspension for injection ampoules,suspensioninjection.intraarticular
+vmp,36056711000001106,1001022G0AAAEAE,Hydrocortisone acetate 25mg/1ml suspension for injection ampoules,suspensioninjection.periarticular
+vmp,36034711000001101,1001022K0AAAAAA,Methylprednisolone acetate 40mg/1ml suspension for injection vials,suspensioninjection.intramuscular
+vmp,36034711000001101,1001022K0AAAAAA,Methylprednisolone acetate 40mg/1ml suspension for injection vials,suspensioninjection.intraarticular
+vmp,36034711000001101,1001022K0AAAAAA,Methylprednisolone acetate 40mg/1ml suspension for injection vials,suspensioninjection.periarticular
+vmp,36034711000001101,1001022K0AAAAAA,Methylprednisolone acetate 40mg/1ml suspension for injection vials,suspensioninjection.intralesional
+vmp,36034711000001101,1001022K0AAAAAA,Methylprednisolone acetate 40mg/1ml suspension for injection vials,suspensioninjection.intrabursal
+vmp,36034811000001109,1001022K0AAABAB,Methylprednisolone acetate 80mg/2ml suspension for injection vials,suspensioninjection.intramuscular
+vmp,36034811000001109,1001022K0AAABAB,Methylprednisolone acetate 80mg/2ml suspension for injection vials,suspensioninjection.intraarticular
+vmp,36034811000001109,1001022K0AAABAB,Methylprednisolone acetate 80mg/2ml suspension for injection vials,suspensioninjection.periarticular
+vmp,36034811000001109,1001022K0AAABAB,Methylprednisolone acetate 80mg/2ml suspension for injection vials,suspensioninjection.intralesional
+vmp,36034811000001109,1001022K0AAABAB,Methylprednisolone acetate 80mg/2ml suspension for injection vials,suspensioninjection.intrabursal
+vmp,36034611000001105,1001022K0AAAEAE,Methylprednisolone acetate 120mg/3ml suspension for injection vials,suspensioninjection.intramuscular
+vmp,36034611000001105,1001022K0AAAEAE,Methylprednisolone acetate 120mg/3ml suspension for injection vials,suspensioninjection.intraarticular
+vmp,36034611000001105,1001022K0AAAEAE,Methylprednisolone acetate 120mg/3ml suspension for injection vials,suspensioninjection.periarticular
+vmp,36034611000001105,1001022K0AAAEAE,Methylprednisolone acetate 120mg/3ml suspension for injection vials,suspensioninjection.intralesional
+vmp,36034611000001105,1001022K0AAAEAE,Methylprednisolone acetate 120mg/3ml suspension for injection vials,suspensioninjection.intrabursal
+vmp,36034511000001106,1001022K0AAAFAF,Methylprednisolone 80mg/2ml / Lidocaine 20mg/2ml (1%) suspension for injection vials,suspensioninjection.intraarticular
+vmp,36034511000001106,1001022K0AAAFAF,Methylprednisolone 80mg/2ml / Lidocaine 20mg/2ml (1%) suspension for injection vials,suspensioninjection.periarticular
+vmp,36034511000001106,1001022K0AAAFAF,Methylprednisolone 80mg/2ml / Lidocaine 20mg/2ml (1%) suspension for injection vials,suspensioninjection.intrabursal
+vmp,36034411000001107,1001022K0AAAGAG,Methylprednisolone 40mg/1ml / Lidocaine 10mg/1ml (1%) suspension for injection vials,suspensioninjection.intraarticular
+vmp,36034411000001107,1001022K0AAAGAG,Methylprednisolone 40mg/1ml / Lidocaine 10mg/1ml (1%) suspension for injection vials,suspensioninjection.periarticular
+vmp,36034411000001107,1001022K0AAAGAG,Methylprednisolone 40mg/1ml / Lidocaine 10mg/1ml (1%) suspension for injection vials,suspensioninjection.intrabursal
+vmp,36021411000001107,1001022N0AAABAB,Prednisolone 25mg/1ml suspension for injection ampoules,suspensioninjection.intramuscular
+vmp,36021411000001107,1001022N0AAABAB,Prednisolone 25mg/1ml suspension for injection ampoules,suspensioninjection.intraarticular
+vmp,36021411000001107,1001022N0AAABAB,Prednisolone 25mg/1ml suspension for injection ampoules,suspensioninjection.periarticular
+vmp,35921511000001102,1001022U0AAAAAA,Triamcinolone acetonide 10mg/1ml suspension for injection ampoules,suspensioninjection.intraarticular
+vmp,35921511000001102,1001022U0AAAAAA,Triamcinolone acetonide 10mg/1ml suspension for injection ampoules,suspensioninjection.intradermal
+vmp,35921711000001107,1001022U0AAABAB,Triamcinolone acetonide 40mg/1ml suspension for injection vials,suspensioninjection.intramuscular
+vmp,35921711000001107,1001022U0AAABAB,Triamcinolone acetonide 40mg/1ml suspension for injection vials,suspensioninjection.intraarticular
+vmp,35921811000001104,1001022U0AAACAC,Triamcinolone acetonide 50mg/5ml suspension for injection vials,suspensioninjection.intraarticular
+vmp,35921811000001104,1001022U0AAACAC,Triamcinolone acetonide 50mg/5ml suspension for injection vials,suspensioninjection.intradermal
+vmp,24566011000001105,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules,suspensioninjection.intraarticular
+vmp,24566011000001105,1001022Y0AAADAD,Triamcinolone hexacetonide 20mg/1ml suspension for injection ampoules,suspensioninjection.periarticular
