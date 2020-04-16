@@ -65,3 +65,39 @@ test2 = bq.cached_read(sql, csv_path=os.path.join('..','data','test2.csv'))
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 test2.count()
+
+# +
+sql = '''WITH subquery AS (
+  SELECT
+    obj_type,
+    snomed_id,
+    bnf_code,
+    dmd_name,
+    form_route
+  FROM measures.dmd_objs_with_form_route
+  WHERE (
+      bnf_code LIKE '060302%' OR # BNF glucocorticoid
+      bnf_code LIKE '060301%' OR # BNF replacement therapy - fludrocortisone
+      bnf_code LIKE '100102%' OR # BNF paragraph on corticosteroinds in rheumatic disease
+      bnf_code LIKE '010502%'    # BNF paragraph on corticosteroinds in bowel disorders
+    ) AND (
+      obj_type = "vmp" OR
+      obj_type = "amp"
+    )
+)
+
+SELECT *
+FROM subquery
+WHERE snomed_id IN (
+  SELECT snomed_id
+  FROM subquery
+  GROUP BY snomed_id
+  HAVING COUNT(snomed_id) > 1
+)
+
+ORDER BY obj_type, dmd_name, form_route'''
+
+all_steroids = bq.cached_read(sql, csv_path=os.path.join('..','data','all_steroids.csv'))
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
+all_steroids.count()
