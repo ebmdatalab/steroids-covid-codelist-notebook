@@ -60,7 +60,15 @@ all_inhaler_ics.info()
 dose_high_ics = pd.read_csv('../data/highdose_inhaledsteroid_codelist.csv')
 dose_high_ics.info()
 
-low_med_ics = all_inhaler_ics[~all_inhaler_ics.isin(dose_high_ics)].dropna()
+## here we merge and create an indicator to see which ones are in both
+combine = pd.merge(all_inhaler_ics,dose_high_ics, how='outer', indicator=True)
+combine
+
+#ones that = left only are low medium dose
+low_med_ics = combine.loc[(combine['_merge'] == "left_only")]
 low_med_ics.info()
 
-low_med_ics
+
+low_med_ics.sort_values(["type", "nm"])
+
+
