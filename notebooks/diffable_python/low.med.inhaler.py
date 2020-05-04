@@ -17,7 +17,7 @@
 # This notebook identifies a list of all ICS inhalers that have not been categorised as high does i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using does syntax.
 #
 # - [All ICS inhalers](#ai)
-# - [low and medium dose ICS inhalers](#ld)
+# - [low and medium dose ICS inhalers](#lm)
 
 #import libraries
 from ebmdatalab import bq
