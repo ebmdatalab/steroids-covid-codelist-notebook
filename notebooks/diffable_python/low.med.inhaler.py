@@ -58,10 +58,9 @@ all_inhaler_ics.info()
 
 #import csv from other notebook dealing with high dose
 dose_high_ics = pd.read_csv('../data/highdose_inhaledsteroid_codelist.csv')
+dose_high_ics.info()
 
 low_med_ics = all_inhaler_ics[~all_inhaler_ics.isin(dose_high_ics)].dropna()
 low_med_ics.info()
 
 low_med_ics
-
-
