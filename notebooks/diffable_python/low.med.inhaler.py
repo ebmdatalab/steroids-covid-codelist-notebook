@@ -16,6 +16,7 @@
 
 # This notebook identifies a list of all ICS inhalers that have not been categorised as high does i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using does syntax.
 
+#import libraries
 from ebmdatalab import bq
 import os
 import pandas as pd
@@ -55,7 +56,7 @@ pd.set_option('display.max_colwidth', None)
 all_inhaler_ics.info()
 # -
 
-#import csv from other notebook dealing wi
+#import csv from other notebook dealing with high dose
 dose_high_ics = pd.read_csv('../data/highdose_inhaledsteroid_codelist.csv')
 
 low_med_ics = all_inhaler_ics[~all_inhaler_ics.isin(dose_high_ics)].dropna()
