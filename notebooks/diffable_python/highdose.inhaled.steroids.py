@@ -18,6 +18,7 @@
 
 from ebmdatalab import bq
 import os
+import pandas as pd
 
 # +
 sql = '''WITH bnf_codes AS (
@@ -56,7 +57,9 @@ WHERE bnf_code IN (SELECT * FROM bnf_codes)
 ORDER BY type, bnf_code, id'''
 
 highdose_inhaledsteroids_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','highdose_inhaledsteroid_codelist.csv'))
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
 highdose_inhaledsteroids_codelist
-# -
+# +
 
 
