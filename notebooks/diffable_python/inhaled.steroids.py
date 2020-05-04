@@ -49,7 +49,7 @@ ORDER BY type, bnf_code, id'''
 
 inhaledsteroids_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','inhaledsteroid_codelist.csv'))
 pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
 inhaledsteroids_codelist
 # -
-
 
