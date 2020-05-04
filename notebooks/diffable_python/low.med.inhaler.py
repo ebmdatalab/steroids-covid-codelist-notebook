@@ -15,11 +15,16 @@
 # ---
 
 # This notebook identifies a list of all ICS inhalers that have not been categorised as high does i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using does syntax.
+#
+# - [All ICS inhalers](#ai)
+# - [low and medium dose ICS inhalers](#ld)
 
 #import libraries
 from ebmdatalab import bq
 import os
 import pandas as pd
+
+# ## All ICS Inhalers <a id='ai'></a>
 
 # +
 
@@ -68,6 +73,8 @@ combine
 low_med_ics = combine.loc[(combine['_merge'] == "left_only")]
 low_med_ics.info()
 
+
+# ## Low and medium dose ICS <a id='lm'></a>
 
 low_med_ics.sort_values(["type", "nm"])
 
