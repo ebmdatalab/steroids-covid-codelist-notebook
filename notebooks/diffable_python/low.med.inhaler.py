@@ -75,6 +75,9 @@ combine
 low_med_ics = combine.loc[(combine['_merge'] == "left_only")]
 low_med_ics.info()
 
-low_med_ics.sort_values(["type", "nm"])
+low_med_ics.sort_values(["type", "nm"], inplace=True)
+low_med_ics.drop('_merge', 1, inplace=True)
 
+low_med_ics
 
+low_med_ics.to_csv(os.path.join('..','data','low_med_ics.csv'))
