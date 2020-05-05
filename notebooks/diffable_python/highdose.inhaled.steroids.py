@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# This list of AMPs is derived from the numerator of [OpenPrescribing high dose inhaled corticosteroid measure](https://github.com/ebmdatalab/openprescribing/blob/master/openprescribing/measure_definitions/icsdose.json) definition.
+# This list of VMPs/AMPs is derived from the numerator of [OpenPrescribing high dose inhaled corticosteroid measure](https://github.com/ebmdatalab/openprescribing/blob/master/openprescribing/measure_definitions/icsdose.json) definition and inhalers reported.
 
 from ebmdatalab import bq
 import os
@@ -22,8 +22,8 @@ import pandas as pd
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
-   bnf_code LIKE "0302000C0%AC" OR # Beclomet Diprop_Inha 250mcg (200D) (brands and generic)",
+  SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
+   (bnf_code LIKE "0302000C0%AC"OR # Beclomet Diprop_Inha 250mcg (200D) (brands and generic)",
    bnf_code LIKE "0302000C0%AU" OR # Beclomet Diprop_Inha B/A 250mcg (200 D) (brands and generic)",
    bnf_code LIKE "0302000C0%BK" OR # Beclomet Diprop_Pdr For Inh 250mcg(100 D (brands and generic)",
    bnf_code LIKE "0302000C0%BW" OR # Beclomet Diprop_Inha 250mcg (200 D) CFF (brands and generic)",
@@ -41,9 +41,11 @@ sql = '''WITH bnf_codes AS (
    bnf_code LIKE "0302000N0%BG" OR # Fluticasone/Salmeterol_Inh 250/25mcg120D (brands and generic)",
    bnf_code LIKE "0302000N0%BK" OR # Fluticasone/Formoterol_Inh 250/10mcg120D (brands and generic)",
    bnf_code LIKE "0302000U0%AB" OR # Ciclesonide_Inh 160mcg (120 D) CFF (brands and generic)",
-   bnf_code LIKE "0302000V0%AA"    # Fluticasone/Vilanterol_Inha 184/22mcg30D (brands and generic)"
-  )
-
+   bnf_code LIKE "0302000V0%AA")   # Fluticasone/Vilanterol_Inha 184/22mcg30D (brands and generic)"
+   AND
+(form_route LIKE '%pressurizedinhalation.inhalation' OR form_route LIKE 'powderinhalation.inhalation%')
+   )
+   
 SELECT "vmp" AS type, id, bnf_code, nm
 FROM dmd.vmp
 WHERE bnf_code IN (SELECT * FROM bnf_codes)
@@ -60,6 +62,6 @@ highdose_inhaledsteroids_codelist = bq.cached_read(sql, csv_path=os.path.join('.
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 highdose_inhaledsteroids_codelist
-# +
+# -
 
 

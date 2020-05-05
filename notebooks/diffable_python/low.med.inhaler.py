@@ -69,12 +69,11 @@ dose_high_ics.info()
 combine = pd.merge(all_inhaler_ics,dose_high_ics, how='outer', indicator=True)
 combine
 
+# ## Low and medium dose ICS <a id='lm'></a>
+
 #ones that = left only are low medium dose
 low_med_ics = combine.loc[(combine['_merge'] == "left_only")]
 low_med_ics.info()
-
-
-# ## Low and medium dose ICS <a id='lm'></a>
 
 low_med_ics.sort_values(["type", "nm"])
 
