@@ -69,7 +69,7 @@ ON
 amp.id = dmd.snomed_id
 WHERE amp.bnf_code IN (SELECT * FROM bnf_codes)
 
-ORDER BY type, bnf_code, id'''
+ORDER BY type, form_route, bnf_code, id'''
 
 complete_steroids_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','complete_steroids_codelist.csv'))
 pd.set_option('display.max_rows', None)
