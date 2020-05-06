@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# [PHE criteria for shielded patients](https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults) specifies people with weakened immune systems and goes on to give an example of "_steroid tablets_". This is very unspecific as you can have injections, enemeas, inhaled which can all act on the imune system. The [BNF has a useful summary](https://bnf.nice.org.uk/treatment-summary/corticosteroids-general-use.html) of steroids including area of action, differnt types, uses and side-effects. In this list we will include "replacement like" steroids. 
+# [PHE criteria for shielded patients](https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults) specifies people with weakened immune systems and goes on to give an example of "_steroid tablets_". This is very unspecific as you can have injections, enemeas, inhaled which can all act on the imune system. The [BNF has a useful summary](https://bnf.nice.org.uk/treatment-summary/corticosteroids-general-use.html) of steroids including area of action, differnt types, uses and side-effects. This is a complete list of steroids in BNF (I think as steroids in all over the place).
 #
 
 from ebmdatalab import bq
