@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# This notebook identifies a list of all ICS inhalers that have not been categorised as high does i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using does syntax.
+# This notebook identifies a list of all single agent ICS inhalers that have not been categorised as high dose i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using dose syntax.
 #
 # - [All ICS inhalers](#ai)
 # - [low and medium dose ICS inhalers](#lm)
@@ -24,7 +24,7 @@ from ebmdatalab import bq
 import os
 import pandas as pd
 
-# ## All ICS Inhalers <a id='ai'></a>
+# ## All ICS Single Agent Inhalers <a id='ai'></a>
 
 # +
 
@@ -42,42 +42,54 @@ WITH bnf_codes AS (
   AND
   (form_route LIKE '%pressurizedinhalation.inhalation' OR form_route LIKE 'powderinhalation.inhalation%')
    )
-   
-SELECT "vmp" AS type, id, bnf_code, nm
-FROM dmd.vmp
+
+SELECT "vmp" AS type, vmp.id as id, vmp.bnf_code as bnf_code, vmp.nm as nm
+FROM dmd.vmp as vmp
+INNER JOIN dmd.vpi as vpi
+ON
+vmp.id = vpi.vmp
 WHERE bnf_code IN (SELECT * FROM bnf_codes)
+GROUP BY vmp.id, vmp.bnf_code, vmp.nm
+HAVING COUNT(ing) = 1
 
 UNION ALL
 
-SELECT "amp" AS type, id, bnf_code, descr
-FROM dmd.amp
+SELECT "amp" AS type, amp.id as id, amp.bnf_code as bnf_code, amp.descr as nm
+FROM dmd.amp as amp
+INNER JOIN dmd.vpi as vpi
+ON
+amp.vmp = vpi.vmp
 WHERE bnf_code IN (SELECT * FROM bnf_codes)
+GROUP BY amp.id, amp.bnf_code, amp.descr
+HAVING COUNT(ing) = 1
 
 ORDER BY type, bnf_code, id'''
 
-all_inhaler_ics = bq.cached_read(sql, csv_path=os.path.join('..','data','all_inhaler_ics.csv'))
+all_inhaler_ics_single_agent = bq.cached_read(sql, csv_path=os.path.join('..','data','all_inhaler_ics_single_agent.csv'))
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
-all_inhaler_ics.info()
+all_inhaler_ics_single_agent.info()
 # -
 
+all_inhaler_ics_single_agent
+
 #import csv from other notebook dealing with high dose
-dose_high_ics = pd.read_csv('../data/highdose_inhaledsteroid_codelist.csv')
-dose_high_ics.info()
+dose_high_ics_single_agent = pd.read_csv('../data/highdose_inhaledsteroid_singleagent_codelist.csv')
+dose_high_ics_single_agent.info()
 
 ## here we merge and create an indicator to see which ones are in both
-combine = pd.merge(all_inhaler_ics,dose_high_ics, how='outer', indicator=True)
+combine = pd.merge(all_inhaler_ics_single_agent,dose_high_ics_single_agent, how='outer', indicator=True)
 combine
 
-# ## Low and medium dose ICS <a id='lm'></a>
+# ## Low and medium dose Single Dose ICS <a id='lm'></a>
 
 #ones that = left only are low medium dose
-low_med_ics = combine.loc[(combine['_merge'] == "left_only")]
-low_med_ics.info()
+low_med_ics_single_agent = combine.loc[(combine['_merge'] == "left_only")]
+low_med_ics_single_agent.info()
 
-low_med_ics.sort_values(["type", "nm"], inplace=True)
-low_med_ics.drop('_merge', 1, inplace=True)
+low_med_ics_single_agent.sort_values(["type", "nm"], inplace=True)
+low_med_ics_single_agent.drop('_merge', 1, inplace=True)
 
-low_med_ics
+low_med_ics_single_agent
 
-low_med_ics.to_csv(os.path.join('..','data','low_med_inhaledsteroid_codelist.csv'))
+low_med_ics_single_agent.to_csv(os.path.join('..','data','low_med_inhaledsteroid_singleagent_codelist.csv'))
