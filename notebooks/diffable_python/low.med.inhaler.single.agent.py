@@ -71,6 +71,8 @@ pd.set_option('display.max_colwidth', None)
 all_inhaler_ics_single_agent.info()
 # -
 
+all_inhaler_ics_single_agent
+
 #import csv from other notebook dealing with high dose
 dose_high_ics_single_agent = pd.read_csv('../data/highdose_inhaledsteroid_singleagent_codelist.csv')
 dose_high_ics_single_agent.info()
