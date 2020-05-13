@@ -15,6 +15,9 @@
 # ---
 
 # This list of AMPs is derived from the denominator of [OpenPrescribing high dose inhaled corticosteroid measure](https://github.com/ebmdatalab/openprescribing/blob/master/openprescribing/measure_definitions/icsdose.json) definition.
+#
+# [All inhaled steroids](#all)
+# [Single ingredient inhaled steroids](single#
 
 from ebmdatalab import bq
 import os
@@ -33,7 +36,7 @@ sql = '''WITH bnf_codes AS (
     AND
     (bnf_code NOT LIKE "0302000N0%AV" OR # Fluticasone Prop_Inh Soln 500mcg/2ml Ud,
     bnf_code NOT LIKE "0302000N0%AW") # Fluticasone Prop_Inh Soln 2mg/2ml Ud 
-  )
+    )
 
 SELECT "vmp" AS type, id, bnf_code, nm
 FROM dmd.vmp

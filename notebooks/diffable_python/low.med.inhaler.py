@@ -17,6 +17,7 @@
 # This notebook identifies a list of all ICS inhalers that have not been categorised as high does i.e. low and Medium dose inhalers. This is a pragmatic approach to work out a steroid load for a patient without using does syntax.
 #
 # - [All ICS inhalers](#ai)
+# - [Single ingerdient ICS](#single)
 # - [low and medium dose ICS inhalers](#lm)
 
 #import libraries
@@ -58,7 +59,52 @@ ORDER BY type, bnf_code, id'''
 all_inhaler_ics = bq.cached_read(sql, csv_path=os.path.join('..','data','all_inhaler_ics.csv'))
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
-all_inhaler_ics.info()
+all_inhaler_ics
+# -
+
+# ## Single Ingredient ICS Inhalers <a id='single'></a>
+
+# +
+sql = '''
+WITH bnf_codes AS (  
+  SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
+  (bnf_code LIKE '0302000C0%' OR #BNF Beclometasone dipropionate
+  bnf_code LIKE '0301011AB%'  OR #BNF BeclometDiprop/Formoterol/Glycopyrronium",
+  bnf_code LIKE '0302000K0%'  OR #BNF budesonide
+  bnf_code LIKE '0302000U0%'  OR #BNF Ciclesonide
+  bnf_code LIKE '0302000V0%'  OR #BNF Fluticasone furoate 
+  bnf_code LIKE '0302000N0%'  OR #BNF Fluticasone propionate 
+  bnf_code LIKE '0302000R0%')   #BNF Mometasone Furoate
+  AND
+  (form_route LIKE '%pressurizedinhalation.inhalation' OR form_route LIKE 'powderinhalation.inhalation%')
+   )
+   
+SELECT "vmp" AS type, vmp.id as id, vmp.bnf_code as bnf_code, vmp.nm as nm
+FROM dmd.vmp as vmp
+INNER JOIN dmd.vpi as vpi
+ON
+vmp.id = vpi.vmp
+WHERE bnf_code IN (SELECT * FROM bnf_codes)
+GROUP BY vmp.id, vmp.bnf_code, vmp.nm
+HAVING COUNT(ing) = 1
+
+UNION ALL
+
+SELECT "amp" AS type, amp.id as id, amp.bnf_code as bnf_code, amp.descr as nm
+FROM dmd.amp as amp
+INNER JOIN dmd.vpi as vpi
+ON
+amp.vmp = vpi.vmp
+WHERE bnf_code IN (SELECT * FROM bnf_codes)
+GROUP BY amp.id, amp.bnf_code, amp.descr
+HAVING COUNT(ing) = 1
+
+ORDER BY type, bnf_code, id'''
+
+all_single_inhaler_ics = bq.cached_read(sql, csv_path=os.path.join('..','data','all_single_inhaler_ics.csv'))
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
+all_single_inhaler_ics
 # -
 
 #import csv from other notebook dealing with high dose
